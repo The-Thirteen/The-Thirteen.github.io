@@ -1673,8 +1673,8 @@
 
 	h3 {
 		text-decoration: underline;
-		color: #004d4b;
-		font-size: 1.35em;
+		color: #325bb5;
+		font-size: 1.79em;
 		font-weight: 900;
 	}
 
@@ -2184,8 +2184,13 @@
 /* Box */
 
 	.box {
-		background: rgba(255, 255, 255, 0.481);
-		border: solid 1px #dbdbdb;
+		background: hsla(0,0%,100%,.4);
+		padding: 20px 25px;
+		border: 1px solid rgba(0,0,0,.4);
+		color: #000;
+		font-weight: 600;
+		display: inline-block;
+		width: 100%;
 		margin-bottom: 2em;
 		padding: 1.5em;
 	}
