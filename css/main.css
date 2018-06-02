@@ -1672,8 +1672,7 @@
 	}
 
 	h3 {
-		background: rgba(144, 144, 144, 0.364);
-		border-radius: 0;
+		text-decoration: underline;
 		color: #004d4b;
 		font-size: 1.35em;
 		font-weight: 900;
